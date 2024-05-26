@@ -1,3 +1,6 @@
+## Live Demo
+<a href='https://mynaukriclone.netlify.app/' target='_blank' >Naukri Clone </a>
+
 # Naukri.com home page clone using ReactJs and Tailwind Css
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
